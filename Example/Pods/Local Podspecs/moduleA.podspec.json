@@ -1,0 +1,22 @@
+{
+  "name": "moduleA",
+  "version": "0.1.0",
+  "summary": "A short description of moduleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/407615367@qq.com/moduleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "407615367@qq.com": "xiaoheiai4719@126.com"
+  },
+  "source": {
+    "git": "https://github.com/407615367@qq.com/moduleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "moduleA/Classes/**/*"
+}
